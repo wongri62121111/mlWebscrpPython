@@ -1,0 +1,13 @@
+Model Training Results
+Date: 2025-03-09 01:10:43
+
+Model: random_forest
+  RMSE: 30.37
+  MAE: 15.26
+  R²: 1.00
+
+Model: gradient_boosting
+  RMSE: 119.52
+  MAE: 90.01
+  R²: 1.00
+

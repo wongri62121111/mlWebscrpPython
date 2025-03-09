@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+tqdm
+joblib
+nltk
+lxml 
+selenium_stealth
+faker
